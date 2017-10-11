@@ -1,6 +1,7 @@
 {
   "Gemfile": "36c376f27539ded2a321b2bd432e843b",
   "LICENSE": "39d0115029585fd2a07f1805f7dec8b4",
+  "README.md": "4fd74540752ba9e383c62961c068bd55",
   "Rakefile": "f4692851f7e9afcdb02721319e3f18b9",
   "examples/init.pp": "331929293522517e54c0373a893d26bf",
   "manifests/c6.pp": "4125bac7580188935aeedab2105b6319",
